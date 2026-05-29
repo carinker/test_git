@@ -1,5 +1,4 @@
 # Some best practices for reproducible research 
-
-## Don't upload sensitive information 
-## Commit often (if possible) 
-## Don't upload loads of data 
+1. Don't upload sensitive information 
+2. Commit often (if possible) 
+3. Don't upload loads of data 
